@@ -1,0 +1,13 @@
+.env
+.env.local
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.pytest_cache/
+.streamlit/secrets.toml
+*.egg-info/
+dist/
+build/
+node_modules/
